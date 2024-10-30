@@ -6,7 +6,7 @@ import Desenvolvedor from "Well0001";
 class SobreMim extends Desenvolvedor {
   nome = "Wellington Luiz Tezotto";
   area = "Backend", "RPA", "AI";
-  trabalho = "GV2C Consulting";
+  trabalho = "Analista de RPA - GV2C Consulting";
   local = "Brasil";
 }
 
